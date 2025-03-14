@@ -181,13 +181,17 @@ If not... well, double-check your credentials and repeat Step 7. 🤷
 
 ---
 
-## 📝 References & Helpful Links
+## 📩 Contact
 
-📖 Official Docs: [GlobalProtect Linux Installation Guide](https://docs.paloaltonetworks.com/globalprotect/5-1/globalprotect-app-user-guide/globalprotect-app-for-linux/download-and-install-the-globalprotect-app-for-linux.html)
+| Name              | Details                             |
+|-------------------|-------------------------------------|
+| **👨‍💻 Developer**  | Sachin Arora                      |
+| **📧 Email**       | [sachnaror@gmail.com](mailto:sachnaror@gmail.com) |
+| **📍 Location**    | Noida, India                       |
+| **📂 GitHub**      | [github.com/sachnaror](https://github.com/sachnaror) |
+| **🌐 Website**     | [https://about.me/sachin-arora](https://about.me/sachin-arora) |
+| **📱 Phone**       | [+91 9560330483](tel:+919560330483) |
 
-🎥 **Video Tutorial** (because who reads these days?): [Watch Here](https://www.youtube.com/watch?v=jM0mzjiWLEk)
-
-🛠️ **GitHub Repo**: [GlobalProtectVPN Setup](https://github.com/rajhans143/GlobalProtectVPN?tab=readme-ov-file)
 
 ---
 
