@@ -1,4 +1,4 @@
-# 🚀 GlobalProtectVPN - Linux Edition 🌍🔒
+# 🚀 GlobalProtectVPN - Linux/Ubuntu Edition 🌍🔒
 
 Welcome to the **GlobalProtect VPN setup guide for Linux**! This guide will walk you through installing and setting up your VPN client so you can securely browse from anywhere – even while sipping coffee at that sketchy café. ☕🌐
 
